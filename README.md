@@ -14,6 +14,6 @@ The stump is just a brown ```rect()```
 The yellow ```star()``` has a ```circle()``` with its opacity set to 0.5 
 to create a glowing effect.
 
-![](images/tree.png)
+![](images/luxor-drawing-225006_52.png)
 
 
